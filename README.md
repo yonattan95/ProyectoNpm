@@ -1,12 +1,12 @@
-#Primer Proyecto en npm
+# Primer Proyecto en npm
 
-##Descripcion
+## Descripcion
 Este modulo es de simple uso, es decir solo es un ejemplo de practica para la introduccion al mundo de npm.
 
-##Instalacion
+## Instalacion
 ```
 npm install mi-proyecto
 ```
 
-##Licencia
+## Licencia
 [MIT](https://opensource.org/licenses/MIT)
