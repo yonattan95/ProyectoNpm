@@ -1,0 +1,31 @@
+{
+  "name": "mi-proyecto",
+  "version": "0.1.0",
+  "description": "Mi primer proyecto en npm",
+  "main": "dist/src/suma.js",
+  "scripts": {
+    "build": "babel src/suma.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonattan95/ProyectoNpm.git"
+  },
+  "keywords": [
+    "npm",
+    "proyecto",
+    "yonattan"
+  ],
+  "author": "Yonattan Vallejos <yonattan95@gmail.com> (facebook.com/yonattanVallejos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonattan95/ProyectoNpm/issues"
+  },
+  "homepage": "https://github.com/yonattan95/ProyectoNpm#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
